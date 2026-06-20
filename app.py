@@ -390,7 +390,7 @@ grid_style = """
     font-size: 0.8rem;
     font-weight: 700;
     font-family: monospace;
-    background-color: #1b1e2e;
+    background-color: #FFF78D;
     border: 1px solid #ff6a00;
     color: #ff6a00;
     text-align: center;

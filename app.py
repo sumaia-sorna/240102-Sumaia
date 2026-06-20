@@ -371,7 +371,7 @@ menu_selection = "Home Page" if menu_display == "🧬 AI Diagnostic Chamber" els
 # প্যাথলজি হেডার ও ৩x3 গ্রিড সেকশন
 st.sidebar.markdown("<br>", unsafe_allow_html=True)
 st.sidebar.markdown(
-    "<h4 style='color: #ffffff; font-size: 1.1rem; font-weight: 700; margin-bottom: 12px;'>📋 Monitored Pathologies</h4>", 
+    "<h4 style='color: #0A2947; font-size: 1.1rem; font-weight: 700; margin-bottom: 12px;'>📋 Monitored Pathologies</h4>", 
     unsafe_allow_html=True
 )
 
